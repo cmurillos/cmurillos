@@ -7,7 +7,7 @@ I am a physical engineer and currently a mathematics student at the National Uni
 
 - 🔭 I’m currently working on machine learning applied to materials science
 - 🌱 I’m currently learning measurement theory and stochastic processes
-- 👯 I’m looking to collaborate on machine learning applied to natural science and complex systems  
+- 👯 I'm looking to collaborate on machine learning projects applied to natural sciences and complex systems.
 
 # 💪 specific skills: 
 
