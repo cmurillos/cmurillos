@@ -12,7 +12,7 @@ I am a physical engineer and currently a mathematics student at the National Uni
 # 💪 specific skills: 
 
 - 📗 ODE, PDE, dynamic systems, complex systems
-- 📙 Electrodynamics, statistical mechanics and DFT, classical and quantum mechanics, materials science
+- 📙 Electrodynamics, statistical mechanics and DFT, classical mechanics, materials science
 - 📘 symbolic regression, biological neural networks, numerical methods with machine learning
 
 # 🛠️ Languages and Tools:
