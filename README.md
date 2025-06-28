@@ -13,7 +13,7 @@ I am a physical engineer and currently a mathematics student at the National Uni
 
 - 📗 Set theory, general topology, abstract algebra, ODE and PDE, dynamical systems, complex systems.
 - 📙 Electrodynamics, statistical mechanics, classical mechanics, materials science.
-- 📘 symbolic regression, biological neural networks, numerical methods with machine learning.
+- 📘 Symbolic regression, biological neural networks, numerical methods with machine learning.
 
 # 🛠️ Languages and Tools:
 
